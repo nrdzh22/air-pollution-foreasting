@@ -39,5 +39,5 @@ This project leverages **Artificial Neural Networks (ANN)** to predict the **Air
 ---
 
 ## 📹 Video Demonstration
-Watch the video below to see how the system works in action:
-[![System Demo](([https://www.youtube.com/watch?v=RlW9HOewzuA]
+Watch the video on my youtube channel to see how the system works in action:
+[https://www.youtube.com/watch?v=RlW9HOewzuA]
