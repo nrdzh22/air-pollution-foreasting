@@ -28,10 +28,11 @@ This project leverages **Artificial Neural Networks (ANN)** to predict the **Air
 ## 📷 Screenshot
 ### 1. **Main Input Interface**:
 - Users enter data for pollutants like ozone, sulfur dioxide, and carbon monoxide, along with the date. Once all fields are filled, they click **"Predict"** to get the air quality forecast.
+ !(screenshot/Interface_1.png)
 
 ### 2. **Prediction Output Interface**:
 - This screen shows the predicted Air Pollution Index (API) and the air quality status (e.g., Good, Unhealthy). It also displays the date of the prediction, with options to go back or exit.
-
+ !(screenshot/Interface_2.png)
 
 
 
