@@ -1,7 +1,7 @@
 # Air Pollution Forecasting (Artificial Intelligence Model)
 
-## 📋 Overview
-**Project Name:🌍 Air Pollution Forecasting in Kuala Terengganu using Artificial Neural Networks**
+## 🌍  Overview
+**Project Name: Air Pollution Forecasting in Kuala Terengganu using Artificial Neural Networks**
 
 This project leverages **Artificial Neural Networks (ANN)** to predict the **Air Pollution Index (API)** for Kuala Terengganu, Malaysia. The model is built using historical pollutant data over 5 years, including key air pollutants like **CO**, **O₃**, **SO₂**, **NO₂** and **PM₁₀**. By forecasting air pollution levels, this project aims to assist in taking preventive measures for public health and environmental protection.
 
