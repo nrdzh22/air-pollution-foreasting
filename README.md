@@ -35,6 +35,9 @@ This project leverages **Artificial Neural Networks (ANN)** to predict the **Air
 - This screen shows the predicted Air Pollution Index (API) and the air quality status (e.g., Good, Unhealthy). It also displays the date of the prediction, with options to go back or exit.
 
   ![Prediction Output Interface](screenshot/Interface_2.png)
+  
+---
 
-
-
+## 📹 Video Demonstration
+Watch the video below to see how the system works in action:
+[![System Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=RlW9HOewzuA]
